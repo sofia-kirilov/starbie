@@ -1,4 +1,3 @@
-<img width="345" height="170" alt="Screenshot 2026-11-01 at 3 50 11 PM" src="https://github.com/user-attachments/assets/02658348-a407-4816-a65a-923d83678162" />
 # Starbie
 
 Starbie is a small desk pet on a star-shaped PCB. A little creature wanders around an OLED screen, and you interact with it by pressing two buttons and by tilting and shaking the board. It runs on a Seeed XIAO ESP32-C3.
