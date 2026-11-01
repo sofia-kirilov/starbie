@@ -1,3 +1,4 @@
+<img width="345" height="170" alt="Screenshot 2026-11-01 at 3 50 11 PM" src="https://github.com/user-attachments/assets/02658348-a407-4816-a65a-923d83678162" />
 # Starbie
 
 Starbie is a small desk pet on a star-shaped PCB. A little creature wanders around an OLED screen, and you interact with it by pressing two buttons and by tilting and shaking the board. It runs on a Seeed XIAO ESP32-C3.
@@ -100,3 +101,6 @@ I changed the I2C pins in the sketch (SDA = GPIO6, SCL = GPIO7) to match this bo
 | Tilt while the menu is open | Moves the selector |
 | Button 2 | Shows or hides the stats screen |
 | Shake | Starbie reacts |
+<img width="339" height="172" alt="Screenshot 2026-11-01 at 3 50 45 PM" src="https://github.com/user-attachments/assets/980472b4-97a0-437e-ad3b-bfa9a4188838" />
+<img width="350" height="173" alt="Screenshot 2026-11-01 at 3 50 33 PM" src="https://github.com/user-attachments/assets/4b0a50be-083e-405f-95c1-cf52e8a25e75" />
+<img width="342" height="170" alt="Screenshot 2026-11-01 at 3 50 25 PM" src="https://github.com/user-attachments/assets/b10dc7c6-eb3e-4b13-b9a4-f508fe0cfb9e" />
